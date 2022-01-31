@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-**MRamenn/MRamenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 🏫 I'm taking a Web Development Class
 - 🔭 I’m currently working on video editing
 - 🌱 I’m currently learning Adobe Premiere
 - 🤔 I’m looking for help with math
