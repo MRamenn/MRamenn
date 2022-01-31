@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with math
 - 😄 Pronouns: he/him
 
-![IMG_3733](https://user-images.githubusercontent.com/98722413/151731741-1e807e27-17cf-407d-b705-6295d9a57757.jpg)
+![63562092760eeaa69b69a7f2f0a63b20](https://user-images.githubusercontent.com/98722413/151732019-c7598d59-f0b5-4e87-9f7e-23dfbc9cf281.png)
